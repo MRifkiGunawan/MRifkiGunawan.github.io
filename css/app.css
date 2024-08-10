@@ -99,6 +99,8 @@ article {
 .profile img {
   width: 200px;
   justify-content: center;
+  object-fit: cover;
+  object-position: center;
   /* margin-left: 100px; */
   border-radius: 50%;
 }
